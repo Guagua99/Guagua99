@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sixuan(Wilson) Wang</h1>
+
+
+- 🏫 CUHKSZ BSDS
+- 🏫 Boston University MSBA Candidate
+- 👨‍💻 Microsoft Data Scientist Intern
+- 👨‍💻 Xiaomi Data Analyst Intern
 - 🌱 I’m currently learning **NLP, Deep Learning**
 
 - 📫 How to reach me **sixuan@bu.edu**
@@ -7,7 +13,6 @@
 
 - ⚡ Fun fact **Let's go Celtics ☘️☘️☘️**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
