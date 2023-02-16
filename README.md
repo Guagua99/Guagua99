@@ -5,13 +5,13 @@
 - 🏫 Boston University MSBA Candidate
 - 👨‍💻 Microsoft Data Scientist Intern
 - 👨‍💻 Xiaomi Data Analyst Intern
-- 🌱 I’m currently learning **NLP, Deep Learning**
+- 🌱 I’m currently learning:  **NLP, Deep Learning**
 
-- 📫 How to reach me **sixuan@bu.edu**
+- 📫 How to reach me:  **sixuan@bu.edu**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sixuan-wang-msba/](https://www.linkedin.com/in/sixuan-wang-msba/)
+- 📄 Know about my experiences:  [https://www.linkedin.com/in/sixuan-wang-msba/](https://www.linkedin.com/in/sixuan-wang-msba/)
 
-- ⚡ Fun fact **Let's go Celtics ☘️☘️☘️**
+- ⚡ Fun fact:  **Let's go Celtics ☘️☘️☘️**
 
 <p align="left">
 </p>
