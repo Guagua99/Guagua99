@@ -21,9 +21,9 @@
 
 <h3 align="left">Project:</h3>
 
-- EMDD (English Mispronunciation Detect & Diagnosis):
-- Humana-Mays Healthcare Analytics Competition:
-- Kaggle Project - Water Potability Prediction:
+- EMDD (English Mispronunciation Detect & Diagnosis): https://github.com/Guagua99/EMDD
+- Humana-Mays Healthcare Analytics Competition: https://github.com/Guagua99/Humana-Case-Competition
+- Kaggle Project - Water Potability Prediction: https://github.com/Guagua99/Water-Potability
 
 
 
