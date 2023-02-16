@@ -24,6 +24,7 @@
 - EMDD (English Mispronunciation Detect & Diagnosis): https://github.com/Guagua99/EMDD
 - Humana-Mays Healthcare Analytics Competition: https://github.com/Guagua99/Humana-Case-Competition
 - Kaggle Project - Water Potability Prediction: https://github.com/Guagua99/Water-Potability
+- COVID-19 Dashboard: https://public.tableau.com/app/profile/jiadai.yu/viz/COVID-equity-dashboard-1017/Dashboard1
 
 
 
